@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnnysan922, Johnny Sanchez
+- 👋 Hi, I’m Johnny Sanchez, @johnnysan922!
 - 👀 I’m interested in software engineering, video games and music!
 - 🌱 I’m currently an aspiring Software Engineer!
 - 💞️ I’m looking to collaborate on ...
